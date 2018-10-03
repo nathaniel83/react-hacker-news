@@ -1,4 +1,4 @@
-# [react-hn](https://react-hn.appspot.com)
+# [react-hacker-news](https://react-hn.appspot.com)
 
 A [React](http://facebook.github.io/react) &
 [react-router](https://github.com/rackt/react-router)-powered implementation of
